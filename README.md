@@ -3,26 +3,16 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=4">
-    <img src="assets/banner-light.svg?v=4" width="960" alt="HE_WANG.EXE — research console">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=5">
+    <img src="assets/banner-light.svg?v=5" width="960" alt="HE_WANG.EXE — research console">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg?v=4">
-    <img src="assets/skills-light.svg?v=4" width="640" alt="skills — processes on gpu-01">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg?v=5">
+    <img src="assets/skills-light.svg?v=5" width="640" alt="skills — processes on gpu-01">
   </picture>
-</p>
-
-<p align="center">
-  <details>
-    <summary><code>ls ~</code></summary>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/theme-msg-dark.svg?v=1">
-      <img src="assets/theme-msg-light.svg?v=1" width="460" alt="theme assignment">
-    </picture>
-  </details>
 </p>
 
 ---
