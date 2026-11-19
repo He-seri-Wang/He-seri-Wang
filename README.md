@@ -2,10 +2,12 @@
 <!-- assets are hand-drawn SVGs; light theme = paper-tape beige, dark theme = ZUTOMAYO midnight -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" width="960" alt="HE_WANG.EXE — research console">
-  </picture>
+  <a href="https://he-seri-wang.github.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+      <img src="assets/banner-light.svg" width="960" alt="HE_WANG.EXE — research console">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
