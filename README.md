@@ -15,17 +15,15 @@
   </picture>
 </p>
 
-<details>
-<summary><code>type about_me.txt</code></summary>
-
-```
-- 🎧 trains neural nets on j-pop (ずっと真夜中でいいのに。/ ZUTOMAYO · ヨルシカ)
-- 🤖 once taught a bipedal robot arm to move; the robots remember
-- 📼 believes dithering, CRT scanlines and tape hiss are design features
-- 🌏 route: Guangzhou → Hangzhou → Muroran → London
-```
-
-</details>
+<p align="center">
+  <details>
+    <summary><code>ls ~</code></summary>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/theme-msg-dark.svg?v=1">
+      <img src="assets/theme-msg-light.svg?v=1" width="460" alt="theme assignment">
+    </picture>
+  </details>
+</p>
 
 ---
 
