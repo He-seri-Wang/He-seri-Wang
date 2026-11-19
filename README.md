@@ -11,7 +11,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-    <img src="assets/skills-light.svg" width="640" alt="nvtop — skill processes on gpu-01">
+    <img src="assets/skills-light.svg" width="640" alt="skills — processes on gpu-01">
   </picture>
 </p>
 
