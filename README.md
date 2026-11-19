@@ -3,15 +3,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=3">
-    <img src="assets/banner-light.svg?v=3" width="960" alt="HE_WANG.EXE — research console">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=4">
+    <img src="assets/banner-light.svg?v=4" width="960" alt="HE_WANG.EXE — research console">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg?v=3">
-    <img src="assets/skills-light.svg?v=3" width="640" alt="skills — processes on gpu-01">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg?v=4">
+    <img src="assets/skills-light.svg?v=4" width="640" alt="skills — processes on gpu-01">
   </picture>
 </p>
 
