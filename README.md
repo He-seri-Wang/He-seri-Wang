@@ -9,23 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://he-seri-wang.github.io"><b>🌐 he-seri-wang.github.io</b></a>
-  ·
-  <a href="https://he-seri-wang.github.io/blog.html">📝 blog</a>
-  ·
-  <a href="mailto:he.wang.25@ucl.ac.uk">✉ he.wang.25@ucl.ac.uk</a>
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/label-skills-dark.svg">
-    <img src="assets/label-skills-light.svg" width="640" alt="Skills — nvtop">
-  </picture>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
     <img src="assets/skills-light.svg" width="640" alt="nvtop — skill processes on gpu-01">
