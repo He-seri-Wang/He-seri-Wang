@@ -18,34 +18,17 @@
 
 ---
 
-<p align="center">Everything else lives on the site — here, just the tape deck. Press PLAY:</p>
-
-<p align="center">
-  <details>
-    <summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-play-dark.svg"><img src="assets/btn-play-light.svg" height="34" alt="▶ PLAY"></picture></summary>
-    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/deck-playing-dark.svg"><img src="assets/deck-playing-light.svg" width="498" alt="TAPE_DECK — NOW PLAYING"></picture>
-  </details>
-  <details>
-    <summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-stop-dark.svg"><img src="assets/btn-stop-light.svg" height="34" alt="■ STOP"></picture></summary>
-    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/deck-stopped-dark.svg"><img src="assets/deck-stopped-light.svg" width="498" alt="TAPE_DECK — STOPPED"></picture>
-  </details>
-  <details>
-    <summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-eject-dark.svg"><img src="assets/btn-eject-light.svg" height="34" alt="⏏ EJECT"></picture></summary>
-    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/deck-eject-dark.svg"><img src="assets/deck-eject-light.svg" width="498" alt="TAPE_DECK — TRAY OPEN"></picture>
-  </details>
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/label-skills-dark.svg">
-    <img src="assets/label-skills-light.svg" width="640" alt="Skills — Device Manager">
+    <img src="assets/label-skills-light.svg" width="640" alt="Skills — nvtop">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-    <img src="assets/skills-light.svg" width="640" alt="skill modules loaded">
+    <img src="assets/skills-light.svg" width="640" alt="nvtop — skill processes on gpu-01">
   </picture>
 </p>
 
