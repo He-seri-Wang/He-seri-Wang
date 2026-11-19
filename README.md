@@ -1,13 +1,17 @@
 <!-- GitHub profile README — retro GUI / win95 / tape-futurism aesthetic -->
 <!-- assets are hand-drawn SVGs; light theme = paper-tape beige, dark theme = ZUTOMAYO midnight -->
 
+<!-- sanitizer test: does <map>/<area> survive? -->
+<img src="assets/spacer.svg" width="8" height="1" alt="" usemap="#sanitizer_probe">
+<map name="sanitizer_probe">
+  <area href="https://he-seri-wang.github.io" title="probe">
+</map>
+
 <p align="center">
-  <a href="https://he-seri-wang.github.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-      <img src="assets/banner-light.svg" width="960" alt="HE_WANG.EXE — research console">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="960" alt="HE_WANG.EXE — research console">
+  </picture>
 </p>
 
 <p align="center">
